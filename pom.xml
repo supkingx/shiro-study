@@ -12,8 +12,8 @@
         <module>shiro-01-hello</module>
         <module>shiro-02-realm</module>
         <module>shiro-03-encode-decode</module>
-        <module>shiro-05-ciphertext-realm</module>
-        <module>shiro-06-authentication-realm</module>
+        <module>shiro-04-ciphertext-realm</module>
+        <module>shiro-05-authentication-realm</module>
     </modules>
 
     <properties>

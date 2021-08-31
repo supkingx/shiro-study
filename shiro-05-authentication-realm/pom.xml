@@ -9,10 +9,10 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <groupId>com.supkingx</groupId>
-    <artifactId>shiro-05-ciphertext-realm</artifactId>
+    <artifactId>shiro-05-authentication-realm</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <name>shiro-05-ciphertext-realm</name>
+    <name>shiro-05-authentication-realm</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
