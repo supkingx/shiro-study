@@ -6,8 +6,10 @@ package com.supkingx.service;
  * @Date: 2021/8/23
  */
 public class SecurityServiceImpl implements SecurityService{
+
     @Override
     public String findPasswordByUserName(String loginName) {
         return "123";
     }
+
 }
