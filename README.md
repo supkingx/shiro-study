@@ -19,10 +19,15 @@ shiro学习案例
 需要在shiro.ini中配置definitionRealm，即继承AuthorizingRealm类的全类名
 
 
-
 ## 三、shiro-03-encode-decode
 
 使用shiro的hex和base64进行编码和解码
+
+## 四、shiro-04-ciphertext-realm
+使用SHA1与salt对密码进行加密
+
+## 五、shiro-05-authentication-realm
+角色和权限的使用
 
 
 
